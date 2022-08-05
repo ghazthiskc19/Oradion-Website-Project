@@ -33,7 +33,7 @@ Berikut adalah skill-skill saya
 
 
 ## Contact Me
-- Email me on muhammad.ghazy.hum@gmail.com
+- ![Email](https://img.shields.io/badge/Email-muhammad.ghazy.hum@gmail.com-orange?style=flat-squarel&logoColor=white)
 - ![Contact](https://img.shields.io/badge/Contact-+62--822--2344--2849-red?style=flat-squarel&logoColor=white)
 
 ## Support
