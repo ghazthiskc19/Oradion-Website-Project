@@ -214,10 +214,10 @@ function gg(a, b = 100, off = 100){
 }
 
 // To Known client width device
-var numberWidth = id(".number-width");
-setInterval(function(){
-    numberWidth.innerHTML = document.body.getBoundingClientRect().width+" X "+ innerHeight;
-}, 1000)
+// var numberWidth = id(".number-width");
+// setInterval(function(){
+//     numberWidth.innerHTML = document.body.getBoundingClientRect().width+" X "+ innerHeight;
+// }, 1000)
 
 
 
