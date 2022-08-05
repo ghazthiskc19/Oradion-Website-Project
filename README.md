@@ -33,16 +33,16 @@ Berikut adalah skill-skill saya
 
 
 ## Contact Me
-![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white)
-![Contact](https://img.shields.io/badge/Contact-+62--822--2344--2849-red?style=flat-squarel&logoColor=white)
+- Email me on muhammad.ghazy.hum@gmail.com
+- ![Contact](https://img.shields.io/badge/Contact-+62--822--2344--2849-red?style=flat-squarel&logoColor=white)
 
 ## Support
 
-For support, email muhammad.ghazy.hum@gmail.com or join our Slack channel.
+For support, you can email muhammad.ghazy.hum@gmail.com 
 
 ## All My Reference
 
-![Reference_1](Assets/Reference/1.JPEG)
-![Reference_2](Assets/Reference/2.JPEG)
-![Reference_3](Assets/Reference/3.JPEG)
+![Reference_1](Assets/Reference/1.JPG)
+![Reference_2](Assets/Reference/2.JPG)
+![Reference_3](Assets/Reference/3.JPG)
 
