@@ -42,7 +42,7 @@ For support, you can email muhammad.ghazy.hum@gmail.com
 
 ## All My Reference
 
-![Reference_1](Assets/Reference/1.JPG)
-![Reference_2](Assets/Reference/2.JPG)
-![Reference_3](Assets/Reference/3.JPG)
+![Reference_1](Assets/Reference/1.jpg)
+![Reference_2](Assets/Reference/2.jpg)
+![Reference_3](Assets/Reference/3.jpg)
 
