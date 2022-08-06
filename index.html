@@ -16,7 +16,7 @@
 
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Oradion Website Builder | Muhammad Ghazy Humaidi">
-    <!-- <meta property="og:url" content="URL halaman"> -->
+    <meta property="og:url" content="https://oradion.netlify.app">
     <meta property="og:title" content="Oradion Website Builder | Muhammad Ghazy Humaidi">
     <meta property="og:description" content="Oradion is a place where everyone can feel what it's like to have a sophisticated website and use the latest technology at a very affordable price, making Oradion one of the best service providers in the world. ">
     <meta property="og:image" content="Assets/Open_graph/OG_fb.png">
@@ -26,13 +26,13 @@
     <meta property="og:image:height" content="788">
     <meta property="og:image:alt" content="Oradion Website Builder">
 
-    <meta property="fb:admins" content="100018803751996" />
-    <!-- <meta property="fb:app_id" content="ID Aplikasi yang terhubung dengan website kita"> -->
-    <!-- <meta property="fb:pages" content="ID Facebook Page"> -->
+    <meta property="fb:admins" content="100018803751996">
+    <meta property="fb:app_id" content="626058812087695">
+    <meta property="fb:pages" content="100437586115145">
 
 
     <meta name="twitter:card" content="summary_large_image">
-    <!-- <meta name="twitter:url" content="URL halaman"> -->
+    <meta name="twitter:url" content="https://oradion.netlify.app">
     <meta name="twitter:title" content="Oradion Website Builder | Muhammad Ghazy Humaidi">
     <meta name="twitter:description" content="Oradion is a place where everyone can feel what it's like to have a sophisticated website and use the latest technology at a very affordable price, making Oradion one of the best service providers in the world.">
     <meta name="twitter:image" content="Assets/Open_graph/OG_fb.png">
@@ -57,9 +57,6 @@
     <link rel="manifest" href="Assets/favicon/site.webmanifest">
 </head>
 <body> 
-    <!-- <div class="client-width">
-        <div class="number-width"></div>
-    </div> -->
 
     <div class="loader">
         <div class="overlay"></div>
@@ -484,6 +481,27 @@
         </div>
     </div>
 </body>
+<script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '{your-app-id}',
+        cookie     : true,
+        xfbml      : true,
+        version    : '{api-version}'
+      });
+        
+      FB.AppEvents.logPageView();   
+        
+    };
+  
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = "https://connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+  </script>
 <script src="script.js"></script>
 <script src="https://kit.fontawesome.com/b9a3cab265.js" crossorigin="anonymous"></script>
 </html>
